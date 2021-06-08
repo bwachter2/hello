@@ -7,5 +7,6 @@
 #include<stdio.h>
 int main(int argc, char **argv){
 	printf("Bethany Wachter\n"); 
+	printf("Commputer Science\n");
 	return 0;
 }
